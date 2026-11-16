@@ -40,5 +40,3 @@ Python · PyTorch · NumPy / SciPy · tensor networks (DMRG) · DFT (VASP, Quant
 ## Contact
 
 greta.lupi@aalto.fi · [ORCID](https://orcid.org/0009-0008-6034-7352)
-
-Open to research and engineering roles in the Helsinki area from August 2027.
